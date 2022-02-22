@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief survey of the growth of usury in England with the mischiefs attending it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29486</idno>
+            <idno type="STC">Wing B4653</idno>
+            <idno type="STC">ESTC R12212</idno>
+            <idno type="EEBO-CITATION">11692065</idno>
+            <idno type="OCLC">ocm 11692065</idno>
+            <idno type="VID">48209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48209)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 16:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief survey of the growth of usury in England with the mischiefs attending it.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Usury --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48209:1" rendition="simple:additions"/>
+            <pb facs="tcp:48209:1" rendition="simple:additions"/>
+            <pb facs="tcp:48209:2"/>
+            <pb facs="tcp:48209:2" rendition="simple:additions"/>
+            <p>A BRIEF SURVEY OF THE Grovvth of Uſury IN ENGLAND. With the Miſchiefs attending it.</p>
+            <p>London Printed in the Year 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48209:3"/>
+            <pb n="1" facs="tcp:48209:3"/>
+            <head>A brief S<g ref="char:V">Ʋ</g>RVEY of the growth of <g ref="char:V">Ʋ</g>S<g ref="char:V">Ʋ</g>RY in <hi>ENGLAND,</hi> with the MIS<g ref="char:EOLhyphen"/>CHIEFS attending it.</head>
+            <p>IT is by all conſeſt, That from the firſt planting of Chri<g ref="char:EOLhyphen"/>ſtianity in this Iſland, the practice of Uſury was not only branded with Church Cenſures, but expoſed to grievous Penalties beſies publick Infamy: For by the Statute 3 <hi>H.</hi> 7. even the Brokers of Uſurious Bargains were to ſtand in the Pillory. The Act 35 <hi>H.</hi> 8. (limiting it to ten <hi>per Cent.</hi>) was the firſt Law that gave it any protecti<g ref="char:EOLhyphen"/>on, though without any Colour of Allowance in point of Conſcience; Nevertheleſs, the Papiſts with open mouth then cryed ſhame of it; And it grew to a Pro<g ref="char:EOLhyphen"/>verb, <hi>That <g ref="char:V">Ʋ</g>ſury was the Brat of Hereſie. Anno</hi> 5. <hi>E.</hi> 6. the ſaid Statute was repealed, and Uſury again con<g ref="char:EOLhyphen"/>demned, whereby that Reproach for the time was ſilen<g ref="char:EOLhyphen"/>ced. The growht of Trade, and improvement after the diſſolution of Monaſteries, cauſed much more borrowing than in former times: And as the Uſurers of that Age, did by their very practice declare how little they valued Conſcience or Credit, (being <hi>ipſo facto</hi> excommunicated) ſo were their terms of lending moſt exorbitant: Where<g ref="char:EOLhyphen"/>upon the Statute 35 <hi>H.</hi> 8. was 13 <hi>Eliz.</hi> ſeaſonably re<g ref="char:EOLhyphen"/>vived
+<pb n="2" facs="tcp:48209:4"/>and reinforced, and their boundleſs Extortions a<g ref="char:EOLhyphen"/>gain limited to ten <hi>per cent.</hi> A Rate at that time judged not to be inconſiſtent with Improvements; But with how little Countenance to Uſurers, the Act it ſelf will wit<g ref="char:EOLhyphen"/>neſs by this Preamble; <hi>Foraſmuch as all <g ref="char:V">Ʋ</g>ſury being againſt the Law of God, is ſinful and deteſtable,</hi> &amp;c. The Papiſts however renewed their Clamours, not otherwiſe anſwer<g ref="char:EOLhyphen"/>ed then by recriminating them with the allowance of Fornication at <hi>Rome,</hi> which when they alledged, That they did by no means allow but rather regulate, for that they could not ſuppreſs it. The Proteſtant then replyed, that no more did they in the Caſe of Uſury. That ſuch was the ſenſe of our firſt Reformers, appears not only by the laſt recited Act, but divers learned Treatiſes, and pi<g ref="char:EOLhyphen"/>ous Sermons of that time, eſpecially of thoſe of Renown<g ref="char:EOLhyphen"/>ed Biſhop <hi>Jewel,</hi> and Biſhop <hi>Downham,</hi> who from their jealouſie of our Churches honour could not brook the Calumny of an Uſurers Reformation, wherein none were more generous, than many honeſt Puritans, ſuch as <hi>Whitaker, Smith, Rogers, &amp;c.</hi> who ſcorned to come be<g ref="char:EOLhyphen"/>hind the beſt, in decrying Sin, or clearing Scandal: Nay we read of a ſamous Sect of Precifians about that time, who allowing Infant-Baptiſme, yet denyed it to the Children of notorious Libertines and Uſurers.</p>
+            <p>One would now marvel, how a Practice ſo generally and notably exploded, ſhould ſo ſodainly gain ſuch Al<g ref="char:EOLhyphen"/>lowance, for in a ſlender interval of time, we find it creditably aſſerted faintly diſputed; This Miſtery may be worth unfolding. Certain it is, the Puritans of that Age, were at firſt highly confident of their Intereſt in the State, and hoped, if not to Engroſs, yet at leaſt to Share the Government: The notable proofs they had newly given of their Conſtancy in Queen <hi>Maries</hi> time,
+<pb n="4" facs="tcp:48209:5"/>with the <hi>Turks,</hi> recommended by the Example of divers zea<g ref="char:EOLhyphen"/>lous Miniſters, who themſelves deſired to paſs for Or<g ref="char:EOLhyphen"/>phanes of the firſt Rank, ſwallowed without chewing, by their credulous Diſciples, who never ſuſpected poyſon having ſuch taſters: From them eaſily diſperſed, not more by the credit of its affectors, then its own allurements and ſingular convenience, to perſons purely contemplative and men of pro<g ref="char:EOLhyphen"/>feſſion: Thus Uſury entred like a floud upon a breach, and With continual ſucceſs carries all before it.</p>
+            <p>For by this ſingle ſtratagem, they avoyd all contribution of Tithes and Taxes to the King, Church, Poor, <hi>&amp;c.</hi> (A ſoveraign Cordial to tender Conſciences;) they decline all ſervices and offices of burthen incident to viſible Eſtates; They eſcape all Oathes, and Ties of publick Allegiance or private Fealty; They little regard forfeitures or Penal Laws; They wave all manner of Hoſpitablity or honeſt expence; They ſculk, yet ſwarm in Cities and good Towns; with no care or trouble, little notice, much leiſure, and rare oppor<g ref="char:EOLhyphen"/>tunity of running to Lectures and Conventicles, They en<g ref="char:EOLhyphen"/>joy both the ſecular applauſe of prudent conduct, and withal, the ſpiritual comfort of thriving eaſily and devourly, (no doubt by ſpecial priviledge, for ſo moſt part of the World<g ref="char:EOLhyphen"/>lings are obſerved not to do) leaving their Adverſaries the cenſure of improvidence, together with the miſery of Decay: They keep many of the Nobility and Gentry in perfect Vaſ<g ref="char:EOLhyphen"/>ſalage, (as their poor Coppy-holders) which eclipſes Ho<g ref="char:EOLhyphen"/>nour, enervates Júſtice, and oſt times protects them in their boldeſt contempts: By engroſſing Caſh and Credit, they in effect give the price to Land, and Law to Markets: By com<g ref="char:EOLhyphen"/>manding ready money, they likewiſe command ſuch Offices as they wiſely affect, (<hi>viz.</hi>) of little Noyſe or Dignity, but great Profit and Influence: They undermine their Adverſa<g ref="char:EOLhyphen"/>ries Eſtates, and weaken their Intereſts, but ſeather and en<g ref="char:EOLhyphen"/>large their own Neſts, the Corporations: They give vaſt
+<pb n="5" facs="tcp:48209:5" rendition="simple:additions"/>Portions with their Daughters, which not only recommonds them to powerful Alliances, but ſets the Dice upon the No<g ref="char:EOLhyphen"/>bility and Gentry, to the greater ruine and eclipſe of Noble and Loyal Families. Laſtly, they are perfectly weather-wiſe, and by the help of their Centinels and perſpectives, can upon timely foreſight of a Storm, by cleanly conveyance, readily diſpoſe of their Affairs, and ſhiſt their Countrey: For what is <hi>London</hi> more to them than <hi>Amſterdam,</hi> or <hi>Old-England</hi> than <hi>New?</hi> A Doctrine of ſuch accommodation to the Godly, muſt needs be revealed from above, and who would not then be their Proſelyte?</p>
+            <p>The Reſult of my diſcourſe is this, That as the Doctrine of allowing Uſury for a Calling or Livelyhood, is altogether new, ſo the preſent general practice is dangerous, the contri<g ref="char:EOLhyphen"/>vance ſubtile and deep, That the concealment of great E<g ref="char:EOLhyphen"/>ſtates thereby, (perhaps to neer half the Capital Stock and re<g ref="char:EOLhyphen"/>al value of this Kingdom) hath long been, and now more than ever is the Canker of Loyalty, and Nurſe of Diſobedi<g ref="char:EOLhyphen"/>ence Inhumane: The Diſcovery, Taxing, Reducement, or any other Curb of Uſury, is in effect the Diſcovery, Taxing, Reducement, and Curb of Faction, the prefervative of the ſound, and Corroſive of the unſound, So as it were hard to ſay, whether it more immediately concern the good of the Pro<g ref="char:EOLhyphen"/>ple, or ſafety of the Crown, timely to provide for it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
